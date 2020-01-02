@@ -23,6 +23,7 @@
       "expectedConstructor": "[label] musí být [type]",
       "keyNotInSchema": "[key] není povoleno schématem",
       "notUnique": "[label] musí být unikátní",
+      "noSpecialCharacters": "Políčko nesmí obsahovat speciání znaky",
       "regEx": {
         "0": {
           "msg": "[label] neprošlo kontrolou regularního výrazu"

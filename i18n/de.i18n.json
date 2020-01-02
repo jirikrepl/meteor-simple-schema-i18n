@@ -22,6 +22,7 @@
       "expectedObject": "[label] muss ein Objekt sein",
       "expectedConstructor": "[label] muss von Type [type] sein",
       "keyNotInSchema": "[key] ist vom Schema nicht erlaubt",
+      "noSpecialCharacters": "Das Feld darf keine Sonderzeichen enthalten",
       "regEx": {
         "0": {
           "msg": "[label] entspricht nicht dem regulären Ausdruck"
