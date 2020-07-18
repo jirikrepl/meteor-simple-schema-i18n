@@ -18,7 +18,6 @@ Package.onUse(function(api, where) {
 
   api.addFiles([
     'package-tap.i18n',
-    `i18n/${process.env.T9N_LANGUAGES}.i18n.json`,
     'shared/lib.js'
   ]);
 
