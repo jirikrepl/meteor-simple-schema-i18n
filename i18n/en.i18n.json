@@ -23,7 +23,6 @@
       "expectedConstructor": "[label] must be a [type]",
       "keyNotInSchema": "[key] is not allowed by the schema",
       "notUnique": "[label] must be unique",
-      "noSpecialCharacters": "The field must not contain special characters",
       "regEx": {
         "0": {
           "msg": "[label] failed regular expression validation"
