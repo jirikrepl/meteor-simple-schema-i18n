@@ -21,6 +21,10 @@ Installation
 meteor add gwendall:simple-schema-i18n
 ```
 
+This fork contains no i18n due to issues with custom gulp build.
+And also the fact that only the file of currently used language is needed at one time.
+Manually copy more languages directly to the app project folder from the original repository.
+
 Contribute
 ----------
 
